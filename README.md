@@ -1,5 +1,5 @@
-- 👋🏼 Hi, I’m ```@Nikkoro ```
-- I'll update this later. ✌🏼😉
+👋🏼 Hi, I’m ```@Nikkoro ```
+
 
 <!---
 Nikkoro/Nikkoro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
