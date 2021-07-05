@@ -1,4 +1,4 @@
-👋🏼 Hi, I’m ```@Nikkoro ```
+👋🏼 Hi, I’m ```Niko```
 
 <details><summary>Skills
 </summary>
