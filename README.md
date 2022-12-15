@@ -1,11 +1,8 @@
 👋🏼 Hi, I’m ```Niko```
+## About
+Currently I'm studying Computer Science at UAM in Poznań.
 
-<details><summary>Skills
-</summary>
-<p>
-Will update later
-</p>
-</details>
+Interested in frontend development, in the future I plan on becoming a fullstack developer.
 
 <!---
 Nikkoro/Nikkoro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
