@@ -1,6 +1,6 @@
 👋🏼 Hi, I’m ```Niko```
 ## About
-Currently I'm studying Computer Science at UAM in Poznań.
+Computer Science graduate of UAM, Poznań
 
 Interested in frontend development, in the future I plan on becoming a fullstack developer.
 
